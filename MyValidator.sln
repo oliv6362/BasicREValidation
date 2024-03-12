@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyValidator", "MyValidator\MyValidator.csproj", "{FB5A8761-2797-4F43-A49F-3E9192396A60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyValidatorStart", "MyValidatorStart\MyValidatorStart.csproj", "{3B85D217-6680-46C8-8DF5-F9197CCF7E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5A8761-2797-4F43-A49F-3E9192396A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5A8761-2797-4F43-A49F-3E9192396A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5A8761-2797-4F43-A49F-3E9192396A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5A8761-2797-4F43-A49F-3E9192396A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B85D217-6680-46C8-8DF5-F9197CCF7E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B85D217-6680-46C8-8DF5-F9197CCF7E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B85D217-6680-46C8-8DF5-F9197CCF7E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B85D217-6680-46C8-8DF5-F9197CCF7E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D1042A3-27AD-4FDD-94C2-F822D890CFA5}
+	EndGlobalSection
+EndGlobal
